@@ -9,7 +9,7 @@ theme: https://github.com/anuraghazra/github-readme-stats/tree/master/themes
 </p>
 
 <p>
-  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=v1ncilazy&show_icons=true&hide_border=true&hide=prs&theme=solarized-light">
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=v1ncilazy&show_icons=true&hide_border=true&hide=prs&theme=default">
 </p>
 
 <p>
@@ -25,7 +25,7 @@ theme: https://github.com/anuraghazra/github-readme-stats/tree/master/themes
 </p>
 
 <p>
-  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=nightroot&show_icons=true&hide_border=true&hide=prs&theme=calm">
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=nightroot&show_icons=true&hide_border=true&hide=prs&theme=flag-india">
 </p>
 
 <p>
