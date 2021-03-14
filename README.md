@@ -21,7 +21,7 @@ theme: https://github.com/anuraghazra/github-readme-stats/tree/master/themes
 </p>
 
 <p>
-  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=LvK8&show_icons=true&hide_border=true&hide=prs&theme=kacho_ga">
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=LvK8&show_icons=true&hide_border=true&hide=prs&theme=kacho-ga">
 </p>
 
 <p>
